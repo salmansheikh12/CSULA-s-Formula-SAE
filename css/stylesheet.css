@@ -285,6 +285,9 @@ hr{
   font-weight: bold;
   font-size: 20px;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 .memberinfo {
   background-color: black;
@@ -499,6 +502,7 @@ i.fas {
 .sponsors2 {
     background-color: black;
     padding: 2%;
+    
 }
 .sponsors2>.adblock {
   color: #ccc;
@@ -806,6 +810,8 @@ i.fas {
   font-family: sans-serif;
   min-width: 400px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  margin-left:auto;
+  margin-right:auto;
 }
 
 .styled-table thead tr {

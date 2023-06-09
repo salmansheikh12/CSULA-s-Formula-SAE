@@ -388,6 +388,7 @@ i.fas {
 .footer a {
   padding-left: 5px;
   padding-right: 5px;
+  color: #ffce00;
 }
 .contactUs {
   text-align: center;
@@ -438,18 +439,27 @@ i.fas {
   background-color: black;
   text-align: center;
   padding-top: 3vh;
-  padding-bottom: 3vh;
+
+  padding-bottom: 1px;
+
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
 }
+
 
 .footer h1{
   font-family: 'Roboto';
   font-size: 40px;
 }
 
-.footer p{
+.footer-copy{
   font-family: 'Roboto';
   font-size: 15px;
   color:white;
+  margin: 0 auto;
 }
 
 .uk-logo {

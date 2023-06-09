@@ -51,7 +51,7 @@
   text-align: center;
   width: auto;
   padding-left: 2.5vw;
-  padding-bottom: 5vh;
+  /* padding-bottom: 1vh; */
 }
 .Title {
   font-family: 'Roboto';
@@ -105,7 +105,7 @@
   text-align: left;
   font-family: 'Roboto';
   font-size: 50px;
-  padding-bottom: 2vh;
+  /* padding-bottom: 2vh; */
   padding-left: 5vw;
   line-height: 1.2;
   font-weight: bold;

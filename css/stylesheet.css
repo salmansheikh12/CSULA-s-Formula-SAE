@@ -58,9 +58,22 @@
   font-family: 'Roboto';
   font-size: 70px;
   text-align: center;
-  margin-top: 50px;
   font-weight:bold;
-  color: white;
+  color: black;
+}
+
+.abt-img{
+  height: auto;
+  width: 650px;
+
+
+
+}
+
+.abt-us{
+  display: flex;
+  align-items: inline;
+
 }
 
 .team-title {
@@ -103,7 +116,7 @@
   color: #cc5200;
 }
 .infodesc {
-  text-align: left;
+  text-align: center;
   font-family: 'Roboto';
   font-size: 50px;
   /* padding-bottom: 2vh; */
@@ -118,7 +131,7 @@
 .aboutUsText{
   font-family: 'Roboto';
   font-size: 20px;
-  text-align: left;
+  text-align: center;
   padding-left: 5vw;
   padding-right: 2vw;
   color: #000000;

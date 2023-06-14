@@ -70,9 +70,34 @@
 
 }
 
+.about-cont{
+
+  
+}
+
 .abt-us{
   display: flex;
   align-items: inline;
+  justify-content: space-between;
+
+}
+
+ .img-wrapper{
+  margin: 0 auto;
+  
+
+
+ }
+
+ @media (min-width: 1250px) {
+/* 
+  .abt-img{
+    display: flex;
+
+  
+  } */
+
+
 
 }
 
